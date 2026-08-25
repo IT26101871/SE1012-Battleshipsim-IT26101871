@@ -1,0 +1,61 @@
+NAVAL BATTLE SIMULATOR
+========================
+
+INITIAL CONDITIONS
+Battlefield Size: 100 x 100
+Battleship Type: 4
+Battleship Position: (18,27)
+Battleship Max Velocity: 34.00
+Battleship Gamma: 2.0000
+Battleship Firing Time: 4.00
+Number of Escort Ships: 20
+
+E1 Type E5 Position (37,13) Impact 0.04 Angle 70-90 Velocity 20-60 FiringTime 8.00 Gamma 0.0600
+E2 Type E5 Position (80,38) Impact 0.04 Angle 70-90 Velocity 20-60 FiringTime 8.00 Gamma 0.0600
+E3 Type E4 Position (17,80) Impact 0.05 Angle 50-90 Velocity 20-60 FiringTime 7.00 Gamma 0.0500
+E4 Type E4 Position (81,5) Impact 0.05 Angle 50-90 Velocity 20-60 FiringTime 7.00 Gamma 0.0500
+E5 Type E2 Position (96,69) Impact 0.06 Angle 30-90 Velocity 20-60 FiringTime 5.00 Gamma 0.0300
+E6 Type E4 Position (21,72) Impact 0.05 Angle 50-90 Velocity 20-60 FiringTime 7.00 Gamma 0.0500
+E7 Type E3 Position (94,92) Impact 0.07 Angle 25-90 Velocity 20-60 FiringTime 6.00 Gamma 0.0400
+E8 Type E5 Position (64,84) Impact 0.04 Angle 70-90 Velocity 20-60 FiringTime 8.00 Gamma 0.0600
+E9 Type E5 Position (61,26) Impact 0.04 Angle 70-90 Velocity 20-60 FiringTime 8.00 Gamma 0.0600
+E10 Type E2 Position (58,44) Impact 0.06 Angle 30-90 Velocity 20-60 FiringTime 5.00 Gamma 0.0300
+E11 Type E4 Position (24,34) Impact 0.05 Angle 50-90 Velocity 20-60 FiringTime 7.00 Gamma 0.0500
+E12 Type E5 Position (63,66) Impact 0.04 Angle 70-90 Velocity 20-60 FiringTime 8.00 Gamma 0.0600
+E13 Type E3 Position (69,83) Impact 0.07 Angle 25-90 Velocity 20-60 FiringTime 6.00 Gamma 0.0400
+E14 Type E3 Position (32,16) Impact 0.07 Angle 25-90 Velocity 20-60 FiringTime 6.00 Gamma 0.0400
+E15 Type E5 Position (5,12) Impact 0.04 Angle 70-90 Velocity 20-60 FiringTime 8.00 Gamma 0.0600
+E16 Type E1 Position (9,85) Impact 0.08 Angle 20-90 Velocity 20-60 FiringTime 4.00 Gamma 0.0200
+E17 Type E5 Position (63,31) Impact 0.04 Angle 70-90 Velocity 20-60 FiringTime 8.00 Gamma 0.0600
+E18 Type E2 Position (19,95) Impact 0.06 Angle 30-90 Velocity 20-60 FiringTime 5.00 Gamma 0.0300
+E19 Type E4 Position (93,9) Impact 0.05 Angle 50-90 Velocity 20-60 FiringTime 7.00 Gamma 0.0500
+E20 Type E5 Position (84,19) Impact 0.04 Angle 70-90 Velocity 20-60 FiringTime 8.00 Gamma 0.0600
+
+
+FINAL RESULTS
+================
+Escort Ships Destroyed: 20
+Escort Ships Remaining: 0
+Battleship Damage: 71.60%
+
+CURRENT IMPACT FACTORS
+E1: 0.0400
+E2: 0.0377
+E3: 0.0500
+E4: 0.0476
+E5: 0.0565
+E6: 0.0476
+E7: 0.0646
+E8: 0.0400
+E9: 0.0400
+E10: 0.0582
+E11: 0.0500
+E12: 0.0400
+E13: 0.0700
+E14: 0.0700
+E15: 0.0400
+E16: 0.0784
+E17: 0.0400
+E18: 0.0565
+E19: 0.0476
+E20: 0.0377
